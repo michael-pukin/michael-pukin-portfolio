@@ -44,8 +44,6 @@
     "node": ">=18.0"
   }
  
-  "scripts": {
-    "deploy": "docusaurus deploy"
-  },
+  
   
 }
