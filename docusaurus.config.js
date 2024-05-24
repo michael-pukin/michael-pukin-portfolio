@@ -140,9 +140,9 @@ const config = {
     module.exports = {
       // other configurations
       url: 'https://michael.pukin.github.io',
-      baseUrl: 'https://github.com/michael-pukin/',
+      baseUrl: '/michael-pukin-portfolio/',
       projectName: 'michael-pukin-portfolio',
-      organizationName: 'Michael Pukin',
+      organizationName: 'michael-pukin',
     };
 };
 
