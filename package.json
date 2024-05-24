@@ -46,6 +46,6 @@
  
   "scripts": {
     "deploy": "docusaurus deploy"
-  }
+  },
   
 }
