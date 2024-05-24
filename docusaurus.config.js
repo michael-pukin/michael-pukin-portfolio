@@ -136,6 +136,14 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+    module.exports = {
+      // other configurations
+      url: 'https://michael.pukin.github.io',
+      baseUrl: 'https://github.com/michael-pukin/',
+      projectName: 'michael-pukin-portfolio',
+      organizationName: 'michael.pukin@gmail.com',
+    };
 };
 
 export default config;
