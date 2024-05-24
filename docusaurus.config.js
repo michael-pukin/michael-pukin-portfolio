@@ -143,7 +143,7 @@ const config = {
       baseUrl: '/michael-pukin-portfolio/',
       projectName: 'michael-pukin-portfolio',
       organizationName: 'michael-pukin'
-    },
+    };
 };
 
 // export default config;
