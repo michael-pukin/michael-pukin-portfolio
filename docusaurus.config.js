@@ -142,7 +142,7 @@ const config = {
       url: 'https://michael.pukin.github.io',
       baseUrl: 'https://github.com/michael-pukin/',
       projectName: 'michael-pukin-portfolio',
-      organizationName: 'michael.pukin@gmail.com',
+      organizationName: 'Michael Pukin',
     };
 };
 
