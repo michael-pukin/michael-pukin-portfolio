@@ -137,13 +137,15 @@ const config = {
       },
     }),
 
-    module.exports = {
-      // other configurations
-      url: 'https://michael.pukin.github.io',
-      baseUrl: '/michael-pukin-portfolio/',
-      projectName: 'michael-pukin-portfolio',
-      organizationName: 'michael-pukin'
-    }
+    
 };
+
+module.exports = {
+  // other configurations
+  url: 'https://michael.pukin.github.io',
+  baseUrl: '/michael-pukin-portfolio/',
+  projectName: 'michael-pukin-portfolio',
+  organizationName: 'michael-pukin'
+}
 
 // export default config;
