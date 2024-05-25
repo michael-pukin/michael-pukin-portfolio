@@ -9,7 +9,7 @@ const prismThemes = require('prism-react-renderer').themes;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Michael Pukin\'s Technical Writing Portfolio',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'A selection of my tech comm work',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
