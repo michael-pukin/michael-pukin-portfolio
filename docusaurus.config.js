@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://michael-pukin.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/michael-pukin-portfolio/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'michael-pukin', // Usually your GitHub org/user name.
+  projectName: 'michael-pukin-portfolio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -137,13 +137,7 @@ const config = {
       },
     }),
 
-    module.exports = {
-      // other configurations
-      url: 'https://michael.pukin.github.io',
-      baseUrl: '/michael-pukin-portfolio/',
-      projectName: 'michael-pukin-portfolio',
-      organizationName: 'michael-pukin'
-    } 
+    module.exports = config;
 };
 
 
