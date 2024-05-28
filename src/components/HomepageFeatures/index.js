@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Tech Tool Knowledge',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Broad Documentation Experience',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Love to Learn and Grow',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
