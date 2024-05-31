@@ -10,7 +10,7 @@ const prismThemes = require('prism-react-renderer').themes;
 const config = {
   title: 'Michael Pukin\'s Technical Writing Portfolio',
   tagline: 'A selection of my tech comm work',
-  favicon: 'img/parrot-icon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://michael-pukin.github.io',
