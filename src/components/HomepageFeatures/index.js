@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Broad Documentation Experience',
+    title: 'Diverse Documentation Experience',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
