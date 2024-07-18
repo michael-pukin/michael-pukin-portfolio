@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Tech Tool Knowledge',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/tech-tool-knowledge.svg').default,
     description: (
       <>
         Skills with a wide range of technical documentation tools and workflows, including MadCap Flare and Doc as Code workflows.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Love to Learn and Grow',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/love-to-learn.svg').default,
     description: (
       <>
         Detail-oriented and curious, I love to learn new technologies and subject material.
