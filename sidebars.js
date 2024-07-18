@@ -21,6 +21,13 @@ const sidebars = {
   mySidebar: [
     {
       type: 'category',
+      label: 'About My Site',
+      items: [
+        'portfolio/about-site',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Portfolio',
       items: [
         'portfolio/sample-concept',
