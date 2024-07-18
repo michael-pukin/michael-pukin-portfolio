@@ -78,7 +78,6 @@ const config = {
             position: 'left',
             label: 'Portfolio',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/michael-pukin/michael-pukin-portfolio',
             label: 'GitHub',
