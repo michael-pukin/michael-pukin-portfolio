@@ -98,6 +98,7 @@ const config = {
               },
             ],
           },
+          /*
           {
             title: 'Community',
             items: [
@@ -115,12 +116,12 @@ const config = {
               },
             ],
           },
-          {
+          */
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'LinkedIn',
+                href: 'https://linkedin.com/in/michaelpukin',
               },
               {
                 label: 'GitHub',
