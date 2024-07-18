@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Diverse Documentation Experience',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/diverse-experience.svg').default,
     description: (
       <>
         Hands-on documentation work with APIs and user interfaces, in both PDF and online web outputs.
