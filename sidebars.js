@@ -28,7 +28,9 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Portfolio',
+      label: 'Sample Portfolio',
+      collapsible: true,
+      collapsed: false,
       items: [
         'portfolio/sample-concept',
         'portfolio/sample-procedure',
