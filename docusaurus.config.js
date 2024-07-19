@@ -66,8 +66,8 @@ const config = {
       // Replace with your project's social card
       image: 'img/lion-social-card.png',
       metadata: [
-        { name: 'title', content: 'Michael Pukin\'s Technical Writing Portfolio' },
-        { name: 'description', content: 'Explore Michael Pukin\'s technical writing portfolio showcasing a selection of his tech comm work.' },
+        
+        { name: 'description', content: 'Explore Michael Pukin\'s technical writing portfolio.' },
       ],
 
       navbar: {
