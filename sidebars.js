@@ -37,6 +37,7 @@ const sidebars = {
         'portfolio/sample-reference',
         'portfolio/sample-process-flow',
         'portfolio/sample-api-guide',
+        'portfolio/sample-changes-log',
       ],
     },
   ],
