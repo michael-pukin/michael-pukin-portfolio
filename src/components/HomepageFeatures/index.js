@@ -4,29 +4,28 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Tech Tool Knowledge',
+    title: 'Docs-as-Code Workflows',
     Svg: require('@site/static/img/tech-tool-knowledge.svg').default,
     description: (
       <>
-        Skills with a wide range of technical documentation tools and workflows, including MadCap Flare and Doc as Code workflows.
-      </>
+Experience with Git, GitHub, Markdown, CI/CD-integrated documentation workflows, and modern Docs-as-Code practices.      </>
     ),
   },
   {
-    title: 'Diverse Documentation Experience',
+    title: 'Software & API Documentation',
     Svg: require('@site/static/img/diverse-experience.svg').default,
     description: (
       <>
-        Hands-on documentation work with APIs and user interfaces, in both PDF and online web outputs.
+         Developed API documentation, user guides, online help systems, procedures, and technical content for complex software products.
       </>
     ),
   },
   {
-    title: 'Love to Learn and Grow',
+    title: 'Content Strategy',
     Svg: require('@site/static/img/love-to-learn.svg').default,
     description: (
       <>
-        Detail-oriented and curious, I love to learn new technologies and subject material.
+       Organizing content for clarity, usability, and maintainability while collaborating with developers, SMEs, and business stakeholders.
       </>
     ),
   },
