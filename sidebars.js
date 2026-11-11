@@ -38,6 +38,7 @@ const sidebars = {
         'portfolio/sample-process-flow',
         'portfolio/sample-api-guide',
         'portfolio/sample-changes-log',
+        'portfolio/sample-technical-research'
       ],
     },
   ],
