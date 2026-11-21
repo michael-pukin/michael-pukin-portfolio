@@ -24,6 +24,7 @@ const sidebars = {
       label: 'About My Site',
       items: [
         'portfolio/about-site',
+        'portfolio/sample-recommended',
       ],
     },
     {
